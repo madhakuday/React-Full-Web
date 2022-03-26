@@ -1,0 +1,7 @@
+@media (min-width: 999px) {
+  .nav_space_bet {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+}

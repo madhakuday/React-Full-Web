@@ -1,0 +1,11 @@
+.button {
+  margin-top: 10px;
+  background: transparent;
+  border: 2px solid rgb(0, 234, 255);
+  transition: all 0.6s ease-in-out;
+  border-radius: 0px 20px 0px 20px;
+}
+.button:hover {
+  background: rgb(0, 234, 255);
+  border: 2px solid transparent;
+}
