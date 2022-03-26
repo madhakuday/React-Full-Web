@@ -6,6 +6,7 @@ function Services() {
       <section
         class="text-gray-100 bg-gray-500 body-font overflow-hidden"
         id="services"
+        style={{ width: '95%' }}
       >
         <div class="container px-5 py-24 mx-auto">
           <div class="flex flex-col text-center w-full mb-20">
