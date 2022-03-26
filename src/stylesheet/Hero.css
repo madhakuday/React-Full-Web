@@ -36,7 +36,7 @@
 
 @media (max-width: 650px) {
   .hero {
-    height: 80vh;
+    height: 75vh;
     width: 95%;
     background-size: 100% 100%;
     display: flex;
